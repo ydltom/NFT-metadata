@@ -1,0 +1,34 @@
+{
+  "name": "7",
+  "description": "",
+  "external_url": "",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "noon"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "snake-plant"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "clay-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

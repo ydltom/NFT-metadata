@@ -1,0 +1,34 @@
+{
+  "name": "37",
+  "description": "",
+  "external_url": "",
+  "image": "37.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woods"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "snake-plant"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "in-love"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "37.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

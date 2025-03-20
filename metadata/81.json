@@ -1,0 +1,34 @@
+{
+  "name": "81",
+  "description": "",
+  "external_url": "",
+  "image": "81.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "crying"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "81.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

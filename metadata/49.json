@@ -1,0 +1,34 @@
+{
+  "name": "49",
+  "description": "",
+  "external_url": "",
+  "image": "49.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "sprout"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "clay-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "smiling"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "49.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

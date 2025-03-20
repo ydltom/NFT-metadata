@@ -1,0 +1,34 @@
+{
+  "name": "85",
+  "description": "",
+  "external_url": "",
+  "image": "85.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "eucalyptus"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "cement-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "serious"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "85.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

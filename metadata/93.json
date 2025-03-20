@@ -1,0 +1,34 @@
+{
+  "name": "93",
+  "description": "",
+  "external_url": "",
+  "image": "93.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "foam-planter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "smiling"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "93.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

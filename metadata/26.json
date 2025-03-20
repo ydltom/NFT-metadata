@@ -1,0 +1,34 @@
+{
+  "name": "26",
+  "description": "",
+  "external_url": "",
+  "image": "26.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "26.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

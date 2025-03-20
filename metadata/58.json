@@ -1,0 +1,34 @@
+{
+  "name": "58",
+  "description": "",
+  "external_url": "",
+  "image": "58.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "sprout"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "cement-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "serious"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "58.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

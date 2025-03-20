@@ -1,0 +1,34 @@
+{
+  "name": "94",
+  "description": "",
+  "external_url": "",
+  "image": "94.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woods"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "clay-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "in-love"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "94.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

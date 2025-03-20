@@ -1,0 +1,34 @@
+{
+  "name": "83",
+  "description": "",
+  "external_url": "",
+  "image": "83.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "snake-plant"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "foam-planter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "curious"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "83.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

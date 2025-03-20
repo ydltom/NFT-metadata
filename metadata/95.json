@@ -1,0 +1,34 @@
+{
+  "name": "95",
+  "description": "",
+  "external_url": "",
+  "image": "95.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "noon"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "sprout"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "smiling"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "95.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
